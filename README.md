@@ -20,7 +20,7 @@
 [![Markdown clickable image](https://img.shields.io/badge/linkedin-0078D6?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")]( www.linkedin.com/in/danieltandet)
 [![Markdown clickable image](https://img.shields.io/badge/github-050209?style=for-the-badge&logo=github&logoColor=white "GitHub")](https://github.com/cooltandet)
 [![Markdown clickable image](https://img.shields.io/badge/handshake-050209?style=for-the-badge&logo=handshake&logoColor=green "Handshake")](https://app.joinhandshake.com/stu/users/41426742)
-[![Markdown clickable image](https://img.shields.io/badge/linktree-050209?style=for-the-badge&logo=linktree&logoColor=green "Other")]()
+[![Markdown clickable image](https://img.shields.io/badge/linktree-050209?style=for-the-badge&logo=linktree&logoColor=green "Other")](https://dot.cards/drtanet)
 
 
 
